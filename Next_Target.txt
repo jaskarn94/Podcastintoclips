@@ -1,0 +1,1 @@
+Edit the description code so that intro and outro words are eliminated on its own. Also the extra lines are deleted on its own.
