@@ -14,7 +14,10 @@ Next targets for this coding program:
 
 1. The program downloads the podcasts on its own.
 Target date to do : 30 December 2020.
+
 2. Now the miniclips are divided on the basis of timestamps provided by the host. I have to do some basic text formatting to get it ready for my program. 
 I want that to be automated. 
 Target Date: 30 December 2020
 
+#The deadline for this project has to be pushed to 30 Jan 2021. 
+As a matter of not able to live upto this deadline, i should write around 200 words on how to work on long term projects in a smart way so that i could do the deep work on them effortlessely.
