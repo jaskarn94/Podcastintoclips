@@ -8,16 +8,9 @@ This program will divide a mp3 file into clips based on the information provided
 Result of this experiment is that I am able to sync my listening hobbies with my shallow activities like brushing, exercising, cooking, walking etc. I can 
 absorb more content while investing very less amount of willpower to do things. 
 
+All the mp3 files are automatically upload to the google drive. I can download the files from google drive to my phone.
 
 
-Next targets for this coding program:
+Next Target: To Run this program on cloud. 
+Date: 31 August 2021.
 
-1. The program downloads the podcasts on its own.
-Target date to do : 30 December 2020.
-
-2. Now the miniclips are divided on the basis of timestamps provided by the host. I have to do some basic text formatting to get it ready for my program. 
-I want that to be automated. 
-Target Date: 30 December 2020
-
-#The deadline for this project has to be pushed to 30 Jan 2021. 
-As a matter of not able to live upto this deadline, i should write around 200 words on how to work on long term projects in a smart way so that i could do the deep work on them effortlessely.
